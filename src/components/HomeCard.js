@@ -7,6 +7,7 @@ const HomeCard = (props) => {
       <div class="ui segment">
         <div>
           {props.content}
+
           {/* <h1 class="ui left floated header title">Sam Munro</h1> */}
         </div>
         <div class="ui clearing divider"></div>
